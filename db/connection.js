@@ -1,6 +1,6 @@
 const mysql = require('mysql');
 const connection = mysql.createConnection({
-    host     : 'localhost',
+    host     : 'frabjous-hotteok-04d9eb.netlify.app',
     user     : 'root',
     password : '',
     database : 'auth_schema',

@@ -1,6 +1,6 @@
 const express = require('express');
 const app = express();
-const auth = require('./routes/authApi')
+const auth = require('./routes/authApi.js')
 const bodyparser = require('body-parser');
 
 

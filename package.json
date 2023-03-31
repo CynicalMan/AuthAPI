@@ -4,7 +4,7 @@
   "description": "Authentication API",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon index",
+    "start": "nodemon index",
     "prod": "node index"
   },
   "author": "Omar & adly",
